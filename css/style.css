@@ -1,0 +1,79 @@
+:root {
+    --primColor: #d5d6d1;
+    --secColor: #12bec8;
+    --btnColor: #434b4d;
+    --font:'Oswald', sans-serif;
+}
+.card-item {
+    height: 250px;
+    width: 250px;
+}
+
+.sale {
+    height: 196px;
+    width: 371px;
+    background-color: pink;
+    color: #ebebe9;
+    text-transform: uppercase;
+}
+.topheader{
+    background: var(--#ebebe9);
+    padding: 10px 0;
+}
+.topheader a {
+    color: #434b4d;
+    font-size: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.topheader a:hover {
+    color: var(--#ebebe9);
+}
+.top-nav{
+    margin: 0;
+    padding: 0;
+    background-color: #d5d6d1;
+}
+.top-nav-item{
+    border-right: 1px solid #ebebe9;
+}
+.section1{
+    background-color: #d5d6d1;
+    margin-top: 15px;
+    padding: 20px;
+}
+.section1-header{
+    background-color: #44494c;
+    margin: 0 auto;
+    padding: 5px;
+    color: #ebebe9;
+}
+.bottom-header{
+    background-color: #d5d6d1;
+}
+.btn-content{
+    background-color: var(--btnColor);
+    color: var(--primColor);
+}
+.hero-img {
+    width: 100%;
+}
+.logo{
+    background-color:var(--secColor) ;
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+.top-footer{
+    background-color: #434b4d;
+}
+.bottom-footer{
+    background-color: #434b4d;
+}
+.account-link,.info-link{
+    color: #ebebe9;
+}
+.footer-header{
+    color: #ebebe9;
+}
+.footer{
+    background-color: #44494c;
+}
