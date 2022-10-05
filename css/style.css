@@ -67,6 +67,7 @@
 }
 .bottom-footer{
     background-color: #434b4d;
+    color: #d5d6d1;
 }
 .account-link,.info-link{
     color: #ebebe9;
@@ -76,4 +77,7 @@
 }
 .footer{
     background-color: #44494c;
+}
+.footer-content{
+    color: #ebebe9;
 }
